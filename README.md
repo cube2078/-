@@ -12,4 +12,4 @@
 <img src="rumi11.jpg" width="250">
 <img src="rumi12.jpg" width="250">
 <img src="rumi13.jpg" width="250">
-<a href="https://namu.wiki/w/%ED%8F%AC%EB%A9%94%EB%9D%BC%EB%8B%88%EC%95%88"><h2>더 많은 강아지 정보</h2>
+<a href="https://namu.wiki/w/%ED%8F%AC%EB%A9%94%EB%9D%BC%EB%8B%88%EC%95%88">더 많은 강아지 정보
